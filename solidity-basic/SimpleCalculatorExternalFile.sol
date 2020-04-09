@@ -1,6 +1,6 @@
 pragma solidity ^0.5.1;
 
-import "./Calculator.sol";
+import "./Calculator_library.sol";
 //best site to learn library https://medium.com/@jeancvllr/solidity-tutorial-all-about-libraries-762e5a3692f9
 
 contract SimpleCalculator {
