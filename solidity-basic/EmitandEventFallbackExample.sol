@@ -7,7 +7,7 @@ contract EmitandEventFallbackExample{
     address payable wallet;
     
     event Purschase(
-        address _buyer,
+        address indexed _buyer,
         uint256 _amount
         );
     
